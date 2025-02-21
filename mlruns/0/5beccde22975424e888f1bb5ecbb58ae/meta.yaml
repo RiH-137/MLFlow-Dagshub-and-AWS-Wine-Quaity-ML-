@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/101ri/OneDrive/Desktop/MLOPS/folder_x7_MLFlow_Basics_With_Dagshub_and_AWS/mlruns/0/5beccde22975424e888f1bb5ecbb58ae/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5beccde22975424e888f1bb5ecbb58ae
+run_name: casual-worm-549
+run_uuid: 5beccde22975424e888f1bb5ecbb58ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740114608591
+status: 1
+tags: []
+user_id: 101ri

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/101ri/OneDrive/Desktop/MLOPS/folder_x7_MLFlow_Basics_With_Dagshub_and_AWS/mlruns/0/e475675b88824896966d5e8330f9c739/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e475675b88824896966d5e8330f9c739
+run_name: redolent-owl-100
+run_uuid: e475675b88824896966d5e8330f9c739
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740102500830
+status: 1
+tags: []
+user_id: 101ri

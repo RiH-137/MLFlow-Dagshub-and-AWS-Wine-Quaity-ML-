@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/101ri/OneDrive/Desktop/MLOPS/folder_x7_MLFlow_Basics_With_Dagshub_and_AWS/mlruns/0/a7206f97e7e7438ba8064892780fd763/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7206f97e7e7438ba8064892780fd763
+run_name: fearless-fowl-709
+run_uuid: a7206f97e7e7438ba8064892780fd763
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740101942454
+status: 1
+tags: []
+user_id: 101ri

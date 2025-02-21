@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/101ri/OneDrive/Desktop/MLOPS/folder_x7_MLFlow_Basics_With_Dagshub_and_AWS/mlruns/0/066b5b0d4f594e31ac50178e73626a28/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 066b5b0d4f594e31ac50178e73626a28
+run_name: merciful-carp-174
+run_uuid: 066b5b0d4f594e31ac50178e73626a28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740102959685
+status: 1
+tags: []
+user_id: 101ri

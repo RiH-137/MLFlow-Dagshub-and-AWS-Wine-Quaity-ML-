@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/101ri/OneDrive/Desktop/MLOPS/folder_x7_MLFlow_Basics_With_Dagshub_and_AWS/mlruns/0/d7c9c6651faa4879be03464a918b2c93/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d7c9c6651faa4879be03464a918b2c93
+run_name: fearless-chimp-698
+run_uuid: d7c9c6651faa4879be03464a918b2c93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740102210834
+status: 1
+tags: []
+user_id: 101ri
